@@ -16,7 +16,7 @@ def index():
     <h1>FIU Campus API</h1>
     <p>Try these endpoints:</p>
     <ul>
-        <li><a href="/api/health">/api/health</a></li>
+        <li><a href="/api/hello">/api/hello</a></li>
         <li><a href="/api/data">/api/data</a></li>
         <li><a href="/api/data/1">/api/data/1</a></li>
     </ul>
